@@ -1,6 +1,6 @@
 ### Hi there 👋
-- :school: I’m currently conducting research on educational measurement
-- 🌱 I’m currently learning Bayesian statistics, deep learning,
+- :school: I’m currently conducting research on educational measurement at UF.
+- 🌱 I’m currently learning Bayesian statistics and deep learning in psychometrics. 
 - 📫 How to reach me: bowenwang91@gmail.com
 <!--
 **BaldwinW/BaldwinW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
