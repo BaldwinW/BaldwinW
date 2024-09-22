@@ -3,7 +3,6 @@
 I am a Ph.D. candidate at the University of Florida since 2020.
 
 - :school: I’m currently conducting research on educational measurement at UF.
-- 🌱 I’m currently learning Bayesian statistics and deep learning in psychometrics. 
 - 📫 How to reach me: bowenwang91@gmail.com
 <!--
 **BaldwinW/BaldwinW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
