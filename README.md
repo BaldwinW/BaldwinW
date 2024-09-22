@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. student at the University of Florida since 2020.
+I am a Ph.D. candidate at the University of Florida since 2020.
 
 - :school: I’m currently conducting research on educational measurement at UF.
 - 🌱 I’m currently learning Bayesian statistics and deep learning in psychometrics. 
