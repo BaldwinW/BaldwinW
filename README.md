@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. candidate at the University of Florida since 2020.
+I am a Ph.D. candidate at the University of Florida.
 
 - :school: I’m currently conducting research on educational measurement at UF.
 - 📫 How to reach me: bowenwang91@gmail.com
